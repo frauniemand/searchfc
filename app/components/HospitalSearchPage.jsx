@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useMemo, useState } from "react";
 import {
   Plus,
@@ -376,4 +378,3 @@ export default function HospitalSearchPage() {
     </div>
   );
 }
-
